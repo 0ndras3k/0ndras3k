@@ -29,9 +29,12 @@
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="TypeORM" src="https://img.shields.io/badge/-TypeORM-000000?style=flat-square&logo=typeorm&logoColor=white" />
     </br>
-    <img alt="Nette" src="https://img.shields.io/badge/-Nette-000000?style=flat-square&logo=nette&logoColor=white" />
-    <img alt="Doctrine" src="https://img.shields.io/badge/-Doctrine-000000?style=flat-square&logo=Doctrine&logoColor=white" />
+    <img alt="Nette" src="https://img.shields.io/badge/-Nette-007ACC?style=flat-square&logo=nette&logoColor=white" />
+    <img alt="Doctrine" src="https://img.shields.io/badge/-Doctrine-F7B93E?style=flat-square&logo=Doctrine&logoColor=white" />
     </br>
+    <img alt="Ktor" src="https://img.shields.io/badge/-Ktor-000000?style=flat-square&logo=ktor&logoColor=white" />
+    </br>
+    <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=spring&logoColor=white" />
     </br>
     <a></a>
     </br>
