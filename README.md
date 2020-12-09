@@ -1,10 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Ondřej, Fullstack developer from <img src="https://www.flaticon.com/svg/static/icons/svg/939/939669.svg" width="13"/> <b>Prague, Czech</b>.</p>
-<h3>Things I code with</h3>
+<p>Welcome there! </br> I'm Ondřej, Fullstack developer from <img src="https://www.flaticon.com/svg/static/icons/svg/939/939669.svg" width="13"/> <b>Prague, Czech</b>.</p>
+<h3>Skills</h3>
 <p>
+  <p>Programming languages</p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  </br>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
