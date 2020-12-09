@@ -24,12 +24,14 @@
     <a>Backend</a>
     </br>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    </br>
     <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
-    </br>
     <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-43853d?style=flat-square&logo=swagger&logoColor=white" />
-    </br>
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    <img alt="TypeORM" src="https://img.shields.io/badge/-TypeORM-000000?style=flat-square&logo=typeorm&logoColor=white" />
+    </br>
+    <img alt="Nette" src="https://img.shields.io/badge/-Nette-000000?style=flat-square&logo=nette&logoColor=white" />
+    <img alt="Doctrine" src="https://img.shields.io/badge/-Doctrine-000000?style=flat-square&logo=Doctrine&logoColor=white" />
+    </br>
     </br>
     <a></a>
     </br>
