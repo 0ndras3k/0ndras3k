@@ -41,7 +41,8 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-007ACC?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F7B93E?style=flat-square&logo=mysql&logoColor=white" />
-    <img alt="Redis" src="https://img.shields.io/badge/-Redis-F7B93E?style=flat-square&logo=redis&logoColor=white" />
+    <img alt="Redis" src="https://img.shields.io/badge/-Redis-CB3837?style=flat-square&logo=redis&logoColor=white" />
+    <img alt="SQLITE" src="https://img.shields.io/badge/-SQLITE-000000?style=flat-square&logo=sqlite&logoColor=white" />
     </br>
     <a>Other</a>
     </br>
