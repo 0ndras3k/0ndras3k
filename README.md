@@ -74,7 +74,7 @@ I write everything in TypeScript so that everything works. Frontend of websites 
 <h2>🎓 Certifications</h2>
 
 <p>
-
+* Languages - English (B2), Slovakian (C2), German (A3)
 * LinkedIn Certifications:
 <img src="https://raw.githubusercontent.com/0ndras3k/0ndras3k/main/linkedin.png">
 
