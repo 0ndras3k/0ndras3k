@@ -3,7 +3,7 @@
 
 <p>Welcome there! </br> I'm Ondřej, Fullstack developer from <img src="https://www.flaticon.com/svg/static/icons/svg/939/939669.svg" width="13"/> <b>Prague, Czech</b>.</p>
 
-<h2>About me</h2>
+<h2>👱 About me</h2>
 
 <p>Hi, I’m a Web Developer, Database manager, a Software Architect, Penetration tester, and open source enthusiast who is highly passionate about building fast, creative applications and writing beautiful code.
 
@@ -11,7 +11,7 @@ We are now trying to create a company that will compete with the number one comp
 
 I write everything in TypeScript so that everything works. Frontend of websites is writed in React & Vue.js and backend in Node.js with Fastify ([Fasteer](https://fasteer.js.org/)) & TypeORM</p>
 
-<h2>Skills</h2>
+<h2>💻 Skills</h2>
 <p>
   <a>Of course, I can't do everything 100%, but I have some experience with these things.</a>
   </br>
