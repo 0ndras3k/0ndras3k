@@ -13,8 +13,10 @@ I write everything in TypeScript so that everything works. Frontend of websites 
 
 </br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0ndras3k&layout=compact&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC)
+</p>
 
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0ndras3k&layout=compact&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC)
 </p>
 
 <h2>💻 Skills</h2>
