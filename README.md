@@ -9,7 +9,13 @@
 
 We are now trying to create a company that will compete with the number one companies in the market.We named the company [@Froneb](https://froneb.com), and we start with the first customers.
 
-I write everything in TypeScript so that everything works. Frontend of websites is writed in React & Vue.js and backend in Node.js with Fastify ([Fasteer](https://fasteer.js.org/)) & TypeORM</p>
+I write everything in TypeScript so that everything works. Frontend of websites is writed in React & Vue.js and backend in Node.js with Fastify ([Fasteer](https://fasteer.js.org/)) & TypeORM
+
+</br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0ndras3k&layout=compact&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC)
+
+</p>
 
 <h2>💻 Skills</h2>
 <p>
