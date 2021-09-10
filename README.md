@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome there! </br> I'm Ondřej, Fullstack developer from <img src="https://www.flaticon.com/svg/static/icons/svg/939/939669.svg" width="13"/> <b>Prague, Czech</b>.</p>
+<p>Welcome there! </br> I'm Ondřej, Fullstack developer from 🇨🇿 <b>Prague, Czech</b>.</p>
 
 <h2>👱 About me</h2>
 
