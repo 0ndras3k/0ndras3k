@@ -5,9 +5,7 @@
 
 <h2>👱 About me</h2>
 
-<p>Hi, I’m a Web Developer, Database manager, a Software Architect, Penetration tester, and open source enthusiast who is highly passionate about building fast, creative applications and writing beautiful code.
-
-We are now trying to create a company that will compete with the number one companies in the market.We named the company [@Froneb](https://froneb.com), and we start with the first customers.
+<p>Hi, In my free time, I’ma Web Developer, Database manager, a Software Architect, Penetration tester, and open source enthusiast who is highly passionate about building fast, creative applications and writing beautiful code.
 
 I write everything in TypeScript so that everything works. Frontend of websites is writed in React & Vue.js and backend in Node.js with Fastify ([Fasteer](https://fasteer.js.org/)) & TypeORM
 
