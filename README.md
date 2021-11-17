@@ -3,6 +3,11 @@
 
 <p>Welcome there! </br> I'm Ondřej, Fullstack developer from 🇨🇿 <b>Prague, Czech</b>.</p>
 
+
+<details>
+<summary>
+  more about me.
+</summary>
 <h2>👱 About me</h2>
 
 <p>Hi, In my free time, I’ma Web Developer, Database manager, a Software Architect, Penetration tester, and open source enthusiast who is highly passionate about building fast, creative applications and writing beautiful code.
@@ -92,3 +97,4 @@ I write everything in TypeScript so that everything works. Frontend of websites 
 <h2>👮Where to find me</h2>
 <p><a href="https://github.com/0ndras3k" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/0ndras3k" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://instagram.com/oklapka.tech" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%F0B051.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> <a href="https://www.linkedin.com/in/ond%C5%99ej-klapka-b306591ba/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-46a2f1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+</detail>
