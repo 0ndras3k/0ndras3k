@@ -19,31 +19,23 @@ I write everything in TypeScript so that everything works. Frontend of websites 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0ndras3k&hide_border=true&bg_color=0000&text_color=5849BE&title_color=5849BE">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ndras3k&layout=compact&hide_border=true&bg_color=0000&text_color=5849BE&title_color=5849BE">
 </p>
 
 <h2>💻 Skills</h2>
 <p>
-  <a>Of course, I can't do everything 100%, but I have some experience with these things.</a>
   </br>
   </br>
-  <a>Programming languages</a>
-  </br>
+  <a>Main Skills</a>
   </br>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=java&logoColor=white" />
-    <img alt="php" src="https://img.shields.io/badge/-PhP-5849BE?style=flat-square&logo=php&logoColor=white" />
-    <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=white" />
   </br>
   <a>Frontend</a>
   </br>
     <img alt="Vue.JS" src="https://img.shields.io/badge/-Vue.JS-43853d?style=flat-square&logo=vue.js&logoColor=white"/>
     <img alt="Nuxt.JS" src="https://img.shields.io/badge/-Nuxt.JS-43853d?style=flat-square&logo=nuxt.js&logoColor=white"/>
-    </br>
-    <img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=white"/>
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-5849BE?style=flat-square&logo=redux&logoColor=white"/>
     </br>
     <a>Backend</a>
     </br>
@@ -52,13 +44,6 @@ I write everything in TypeScript so that everything works. Frontend of websites 
     <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-43853d?style=flat-square&logo=swagger&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="TypeORM" src="https://img.shields.io/badge/-TypeORM-000000?style=flat-square&logo=typeorm&logoColor=white" />
-    </br>
-    <img alt="Nette" src="https://img.shields.io/badge/-Nette-007ACC?style=flat-square&logo=nette&logoColor=white" />
-    <img alt="Doctrine" src="https://img.shields.io/badge/-Doctrine-F7B93E?style=flat-square&logo=Doctrine&logoColor=white" />
-    </br>
-    <img alt="Ktor" src="https://img.shields.io/badge/-Ktor-000000?style=flat-square&logo=ktor&logoColor=white" />
-    </br>
-    <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=spring&logoColor=white" />
     </br>
     <a>Databases</a>
     </br>
