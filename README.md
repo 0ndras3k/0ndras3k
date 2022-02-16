@@ -21,6 +21,7 @@ I write everything in TypeScript so that everything works. Frontend of websites 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ndras3k&layout=compact&hide_border=true&bg_color=0000&text_color=5849BE&title_color=5849BE">
 </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m0rp43us&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="m0rp43us" /></p>
 
 <h2>💻 Skills</h2>
 <p>
